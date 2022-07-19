@@ -1,0 +1,9 @@
+# ninja log v5
+2	1129	6799614683895695	first_autogen/timestamp	ace45e4c5d3b0d48
+2	1129	6799614683895695	first_autogen/mocs_compilation.cpp	ace45e4c5d3b0d48
+2	1129	6799614683895695	C:/Users/lx/Desktop/qt_first/build-first-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/first_autogen/timestamp	ace45e4c5d3b0d48
+2	1129	6799614683895695	C:/Users/lx/Desktop/qt_first/build-first-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/first_autogen/mocs_compilation.cpp	ace45e4c5d3b0d48
+1131	3592	6799614710211893	CMakeFiles/first.dir/first_autogen/mocs_compilation.cpp.obj	375ea7d9a79c33e4
+1130	3718	6799614711463666	CMakeFiles/first.dir/main.cpp.obj	e2b18f9a1291f421
+1132	3736	6799614711623228	CMakeFiles/first.dir/mainwindow.cpp.obj	b9397025cda90083
+3736	3979	6799614714021965	first.exe	50fa4f71b6b0e0aa
