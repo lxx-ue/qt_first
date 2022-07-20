@@ -3,7 +3,8 @@
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
-    QLabel lbl("test");
-    lbl.show();
+    QPushButton *button_quit = new QPushButton("Exit");
+    QObject::connect(button_quit, SIGNAL(clicked()), &a, SLOT(quit()));
+    button_quit->show();
     return a.exec();
 }
