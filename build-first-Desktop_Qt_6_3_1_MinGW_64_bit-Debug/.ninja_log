@@ -9,3 +9,12 @@
 4788	4950	6809693295819929	first.exe	50fa4f71b6b0e0aa
 0	16	0	CMakeFiles/clean.additional	baedbe210acaa455
 17	21	0	clean	577b940aee94fbd7
+14	485	6809776812344592	first_autogen/timestamp	ace45e4c5d3b0d48
+14	485	6809776812344592	first_autogen/mocs_compilation.cpp	ace45e4c5d3b0d48
+14	485	6809776812344592	C:/Users/lx/Desktop/qt_first/build-first-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/first_autogen/timestamp	ace45e4c5d3b0d48
+14	485	6809776812344592	C:/Users/lx/Desktop/qt_first/build-first-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/first_autogen/mocs_compilation.cpp	ace45e4c5d3b0d48
+485	2166	6809776830068753	CMakeFiles/first.dir/main.cpp.obj	e2b18f9a1291f421
+486	2203	6809776830437764	CMakeFiles/first.dir/mainwindow.cpp.obj	b9397025cda90083
+486	2274	6809776831140994	CMakeFiles/first.dir/first_autogen/mocs_compilation.cpp.obj	375ea7d9a79c33e4
+487	5482	6809776863218487	CMakeFiles/first.dir/finddialog.cpp.obj	53c12fb7e1ac65dd
+5483	5632	6809776864690038	first.exe	321b4c8716beefe2
