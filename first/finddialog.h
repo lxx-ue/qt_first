@@ -23,6 +23,7 @@ private slots:
 private:
     QLabel *label;
     QLineEdit *lineEdit;
+    QCheckBox *caseCheckBox;
     QCheckBox *backwardCheckBox;
     QPushButton *findButton;
     QPushButton *closeButton;
